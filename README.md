@@ -2,6 +2,7 @@
 # homeMarking  这是一个家政服务项目
 ## 家政项目
  
+ ```
 ### 项目结构
 ├─sever---------------------后台server文件
 │  └─mock------------------模拟后台请求数据的文件夹
@@ -22,6 +23,8 @@
 │  │      └─home------------------首页reducer
 │  └─style----------------------公共样式
 └─utils--------------------------工具库
+```
+
 
 ### 项目用到的工具库
     前端： react  react-redux react-router-redux(react路由)  react-router-dom(Link) react-swipe redux redux-thunk(处理异步actions) 
